@@ -185,7 +185,7 @@
         <Param val="" valType="extendedCode" updates="constant" name="End Experiment"/>
         <Param val="" valType="extendedCode" updates="constant" name="End JS Experiment"/>
         <Param val="" valType="extendedCode" updates="constant" name="End JS Routine"/>
-        <Param val="if type(Response.rt) is float:&amp;#10;    message = str(round(Response.rt * 1000))&amp;#10;    thisExp.addData('Accuracy', 1)&amp;#10;    thisExp.addData('RTms', Response.rt * 1000)&amp;#10;    &amp;#10;# PsychoPy is not running the trial for more than 29.991...&amp;#10;if timing.getTime() &gt;= 29.99:&amp;#10;        message = 'Inget svar!'&amp;#10;        warning_beep.play()&amp;#10;        Response.rt = timing.getTime()&amp;#10;        thisExp.addData('RTms', np.NAN)&amp;#10;        thisExp.addData('Accuracy', 0)&amp;#10;        continueRoutine = False" valType="extendedCode" updates="constant" name="End Routine"/>
+        <Param val="if type(Response.rt) is float:&amp;#10;    message = str(round(Response.rt * 1000))&amp;#10;    thisExp.addData('Accuracy', 1)&amp;#10;    thisExp.addData('RTms', Response.rt * 1000)&amp;#10;    &amp;#10;# PsychoPy is not running the trial for more than 29.991...&amp;#10;if timing.getTime() &gt;= 29.99:&amp;#10;        message = 'No response!'&amp;#10;        warning_beep.play()&amp;#10;        Response.rt = timing.getTime()&amp;#10;        thisExp.addData('RTms', np.NAN)&amp;#10;        thisExp.addData('Accuracy', 0)&amp;#10;        continueRoutine = False" valType="extendedCode" updates="constant" name="End Routine"/>
         <Param val="False" valType="bool" updates="None" name="disabled"/>
         <Param val="Target_code" valType="code" updates="None" name="name"/>
       </CodeComponent>
