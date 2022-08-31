@@ -6,4 +6,4 @@ You are free to use this in your research and student work. However, make sure y
 
 For example, here is an APA citation:
 
-Marsja, E (2022, August 30) Psychomotor Vigilance Task (PVT) in PsychoPy. Marsja.se. https://www.marsja.se/psychomotor-vigilance-task-psychopy-pvt
+Marsja, E (2022, August 30). Psychomotor Vigilance Task (PVT) in PsychoPy. Marsja.se. https://www.marsja.se/psychomotor-vigilance-task-psychopy-pvt
