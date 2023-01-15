@@ -1,8 +1,8 @@
 ## Psychomotor Vigilance Task
-This a Psychomotor vigilance test created in PsychoPy for the tutorial
+This a free Psychomotor vigilance test created in PsychoPy for the tutorial
 [https://www.marsja.se/psychomotor-vigilance-task-psychopy-pvt](https://www.marsja.se/psychomotor-vigilance-task-psychopy-pvt).
 
-You are free to use this in your research and student work. However, make sure you give credit to the blog post.
+You are free to use and download the PVT for use in your research and student work. However, make sure you give credit to the blog post.
 
 For example, here is an APA citation:
 
